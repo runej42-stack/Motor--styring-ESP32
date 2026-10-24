@@ -1,0 +1,6 @@
+# Arduino og PlatformIO
+.pio/
+build/
+*.bin
+# Egne innstillinger som ikke skal på nett
+wifi_hemmelig.h
